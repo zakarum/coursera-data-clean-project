@@ -8,7 +8,8 @@ The dataset was created from *Human Activity Recognition Using Smartphones Datas
 
 How to Use
 ==================================================================
-Download the data set from link 
+Download the data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, unzip to your working directory, and run the script. 
+
 Reference
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset

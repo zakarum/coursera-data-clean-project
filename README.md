@@ -1,4 +1,4 @@
-The dataset was created from "Human Activity Recognition Using Smartphones Dataset, Version 1.0", includes the following files:
+The dataset was created from *Human Activity Recognition Using Smartphones Dataset, Version 1.0*, includes the following files:
 =========================================
 
 - 'README.md'

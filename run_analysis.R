@@ -25,4 +25,4 @@ subset <- select(full_dataset, matches("^subject$|^activity$|mean\\(\\)|std\\(\\
 submelt <- melt(subset, names(subset)[1:2], names(subset)[3:68], variable.name = "feature")
 submelt <- group_by(submelt, subject, activity, feature)
 tidytable <- summarise(submelt, avg = mean(value))
-write.table(tidytable, file = "tidydata.csv", row.names = FALSE)
+write.table(tidytable, file = "tidydata.txt", row.names = FALSE)

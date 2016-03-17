@@ -4,7 +4,7 @@ The dataset was created from *Human Activity Recognition Using Smartphones Datas
 
 - 'README.md'
 - 'CodeBook.md'
-- 'tidydata.csv' - summarized data from the orignila data sets, combined test and train data sets, calculated mean of each features of very subject and very activity
+- 'tidydata.txt' - summarized data from the orignila data sets, combined test and train data sets, calculated mean of each features of every subject and everyactivity
 
 How to Use
 ==================================================================

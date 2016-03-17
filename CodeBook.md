@@ -7,7 +7,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Then a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
-Final, a mean value (column "avg" in data set) is calculated break down by each subject and each activity
+Final, mean and std of each signal are calculated for every subject and activity.
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 
